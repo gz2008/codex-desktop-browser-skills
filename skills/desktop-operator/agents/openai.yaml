@@ -1,0 +1,4 @@
+interface:
+  display_name: "Desktop Operator"
+  short_description: "Fast persistent Windows and browser automation"
+  default_prompt: "Use $desktop-operator to inspect and operate the requested local browser or Windows application through the persistent operator without stealing focus."

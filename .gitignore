@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.tmp/
+test-output/
+secrets/
+profiles/
+shots/
+screenshots/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习通作业（无头 CDP）"
+  short_description: "后台完成学习通作业：读取题目、运行验证、暂时保存，不抢焦点。"
+  default_prompt: "使用 $chaoxing-coursework 完成当前学习通作业；先验证登录与作业页，再后台读取、填写和运行，只暂时保存；未经明确要求不得提交。"

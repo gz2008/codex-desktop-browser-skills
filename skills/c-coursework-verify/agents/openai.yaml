@@ -1,0 +1,4 @@
+interface:
+  display_name: "C Coursework Verify"
+  short_description: "Solve and byte-verify strict C homework output"
+  default_prompt: "Use $c-coursework-verify to write and verify this C assignment."
